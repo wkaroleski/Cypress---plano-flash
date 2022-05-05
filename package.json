@@ -1,0 +1,14 @@
+{
+  "name": "cypress-initial",
+  "version": "1.0.0",
+  "description": "Primeiro teste em Cypress no fm-site",
+  "main": "plano-flash.spec.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Wagner Karoleski",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
